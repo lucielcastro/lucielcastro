@@ -16,7 +16,6 @@ src="https://img.shields.io/github/followers/lucielcastro?logo=github&style=for-
 <div align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=dart,flutter,python,firebase,SQLite,figma,vscode,git,github&theme=dark" />
-     <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,SQLite,mongodb,prisma,docker,figma&github&theme=dark" />
   </a>
  
 </div>
