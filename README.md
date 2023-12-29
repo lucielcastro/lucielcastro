@@ -12,7 +12,7 @@ src="https://img.shields.io/github/followers/lucielcastro?logo=github&style=for-
 
 ### Skills
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/tree/main/icons/SQLite.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/tree/main/icons/SQLite.svg" width="36" height="36" alt="SQLite" /></a>
 <p align="left">
 <div align="left">
   <a href="#">
