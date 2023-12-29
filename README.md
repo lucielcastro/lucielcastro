@@ -7,7 +7,7 @@
 - I’m interested in Dart/Flutter.<br>
 - Presently, I'm developing Softwares & apps with Flutter.
 
-<a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/lucielcastro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/danielcranney?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
