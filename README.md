@@ -11,12 +11,13 @@
 src="https://img.shields.io/github/followers/lucielcastro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,SQLite,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/tree/main/icons/SQLite.svg" width="36" height="36" alt="TypeScript" /></a>
 <p align="left">
 <div align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=dart,flutter,python,firebase,SQLite,figma,vscode,git,github&theme=dark" />
-    [![SkillIcons](https://skillicons.dev/icons?i=js,ts,SQLite,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
+    
   </a>
  
 </div>
