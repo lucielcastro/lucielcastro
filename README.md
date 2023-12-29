@@ -8,7 +8,7 @@
 - Presently, I'm developing Softwares & apps with Flutter.
 
 <a href="https://www.github.com/lucielcastro" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/danielcranney?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/lucielcastro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
