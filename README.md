@@ -12,11 +12,10 @@ src="https://img.shields.io/github/followers/lucielcastro?logo=github&style=for-
 
 ### Skills
 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/readme-generator/main/public/skill-icons/tree/main/icons/SQLite.svg" width="36" height="36" alt="SQLite" /></a>
 <p align="left">
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,python,firebase,Lua-Dark,figma,vscode,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,python,sqlite,firebase,Lua-Dark,figma,vscode,git,github&theme=dark" />
     
   </a>
  
