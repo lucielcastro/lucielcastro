@@ -11,7 +11,7 @@
 src="https://img.shields.io/github/followers/lucielcastro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,SQLite,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
 <p align="left">
 <div align="left">
   <a href="#">
