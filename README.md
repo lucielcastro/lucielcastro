@@ -15,9 +15,7 @@ src="https://img.shields.io/github/followers/lucielcastro?logo=github&style=for-
 <p align="left">
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,python,firebase,figma,vscode,git,github&theme=dark" />
-    [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
-[^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
+    <img src="https://skillicons.dev/icons?i=dart,flutter,python,firebase,SQLite,figma,vscode,git,github&theme=dark" />
   </a>
  
 </div>
