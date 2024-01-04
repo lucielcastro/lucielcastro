@@ -10,26 +10,23 @@
 <a href="https://www.github.com/lucielcastro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lucielcastro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+### Languages and Tools:
 
 <p align="left">
 <div align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=dart,flutter,python,sqlite,firebase,figma,vscode,git,github&theme=dark" />
-    
   </a>
- 
 </div>
 
 </div>
 
-<h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
+### GitHub Stats
 
 <div align="left">
- 
   <img src="https://github-readme-stats.vercel.app/api?username=lucielcastro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucielcastro&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
-   <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucielcastro&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucielcastro&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucielcastro&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 </p>
 
