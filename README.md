@@ -6,6 +6,7 @@
 - I'm Computer Science Student👨‍💻.<br>
 - I’m interested in Dart/Flutter.<br>
 - Presently, I'm developing Softwares & apps with Flutter.
+- You can contact me at lucielcastro.dev@gmail.com
 
 <a href="https://www.github.com/lucielcastro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lucielcastro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
