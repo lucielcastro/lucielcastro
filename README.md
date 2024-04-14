@@ -9,11 +9,13 @@
 - You can contact me at lucielcastro.dev@gmail.com
 - I'm open to collaborating on exciting projects as a Front End Developer - Dart/Flutter.
 
+
 <div align="left">
 <a href="https://www.github.com/lucielcastro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lucielcastro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.github.com/lucielcastro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/stars/lucielcastro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </div>
+
 ### Languages and Tools
 
 <p align="left">
