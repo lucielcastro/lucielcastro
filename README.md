@@ -15,7 +15,7 @@ src="https://img.shields.io/github/followers/lucielcastro?logo=github&style=for-
 src="https://img.shields.io/github/stars/lucielcastro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </div>
 
-### Languages and Tools
+### Languages and Tools:
 
 <p align="left">
 <div align="left">
@@ -24,7 +24,7 @@ src="https://img.shields.io/github/stars/lucielcastro?logo=github&style=for-the-
   </a>
 </div>
 
-### GitHub Stats
+### GitHub Stats:
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lucielcastro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"/>
