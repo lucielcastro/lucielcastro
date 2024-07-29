@@ -12,15 +12,14 @@
 <div align="left">
 <a href="https://www.github.com/lucielcastro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lucielcastro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.github.com/lucielcastro" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/stars/lucielcastro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  <a href="https://www.github.com/lucielcastro" target="_blank" rel="noreferrer"><img
-src="https://hits.seeyoufarm.com/api/count/incr/logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  
+src="https://img.shields.io/github/stars/lucielcastro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  
 
 ### Languages and Tools:
 
 <p align="left">
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,python,flask,html,css,js,sqlite,firebase,figma,vscode,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,python,flask,html,css,js,exp, sqlite,firebase,figma,git&theme=dark" />
   </a>
 </div>
 
