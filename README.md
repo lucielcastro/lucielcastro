@@ -3,10 +3,8 @@
 ### <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px> About me 
 
 - I'm Computer Science Student👨‍💻.<br>
-- I’m interested in Dart/Flutter.<br>
-- Presently, I'm developing apps with Flutter.
+- Presently, I'm developing apps with Flutter and kotlin.
 - You can contact me at lucielcastro.dev@gmail.com
-- I'm open to collaborating on exciting projects as a Front End Developer - Dart/Flutter.
 
 
 <div align="left">
