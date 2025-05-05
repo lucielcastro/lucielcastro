@@ -21,7 +21,7 @@ Communication, leadership, problem solving, detail orientation and organization.
 <p align="left">
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,python,flask,html,css,js,mysql,sqlite,firebase,mongo,figma,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,python,flask,html,css,js,vue,mysql,sqlite,firebase,mongo,figma,git&theme=dark" />
   </a>
 </div>
 
