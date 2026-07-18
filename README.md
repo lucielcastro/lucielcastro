@@ -12,6 +12,9 @@
 src="https://img.shields.io/github/followers/lucielcastro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.github.com/lucielcastro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/stars/lucielcastro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  
 
+<a href="https://www.linkedin.com/in/luciel-castro-88777a202" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 ### Soft Skills:
 
 Communication, leadership, problem solving, detail orientation and organization.
